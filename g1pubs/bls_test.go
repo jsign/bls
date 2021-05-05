@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/phoreproject/bls"
-	"github.com/phoreproject/bls/g1pubs"
+	"github.com/jsign/bls"
+	"github.com/jsign/bls/g1pubs"
 )
 
 type XORShift struct {
